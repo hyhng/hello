@@ -2,7 +2,7 @@
 
 ## Contents
 
-- [Preview Image](Rice-is-the-heart-of-almost-every-meal)
+- [Preview Image](Rice-is-the-heart-of-almost-every-meal.)
 
 Need to write something for the work
 
