@@ -2,4 +2,4 @@
 
 Hello guys
 
-- [Alt Text] (alt-text)
+- [Alt Text](alt-text)
