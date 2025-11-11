@@ -1,3 +1,9 @@
+---
+layout: default
+title: "Meta title"
+description: Meta description."
+image: /img/preview-img.png
+---
 # Content First
 
 ## Contents
