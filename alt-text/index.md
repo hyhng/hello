@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Meta title"
-description: "Meta description."
+description: Meta description.
 image: img/preview-img.png
 ---
 # Content First
