@@ -2,7 +2,7 @@
 layout: default
 title: "Meta title"
 description: "Rice is the heart of almost every meal."
-image: "img/preview-img.png"
+image: "/img/preview-img.png"
 ---
 # Content First
 
