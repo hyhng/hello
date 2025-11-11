@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Meta title"
-description: "Rice is the heart of almost every meal."
+title: "Rice is the heart of almost every meal"
+description: "Meta description"
 image: "/img/preview-img.png"
 ---
 # Content First
